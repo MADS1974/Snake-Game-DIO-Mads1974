@@ -1,6 +1,6 @@
 # Recriando o jogo da cobrinha com JavaScript
 
-Nesse projeto  o desafio foi recriar o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript. Sendo assim, foram implementadas mudanças no style.
+Nesse projeto  o desafio foi recriar o clássico jogo da cobrinha utilizando HTML, CSS e JavaScript. Sendo assim, foram implementadas pequenas mudanças no style.
 
 ### Conhecimentos adquiridos sobre:
 
